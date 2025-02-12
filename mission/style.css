@@ -4,14 +4,14 @@ body{
     line-height: 1.5;
 }
 header h2{
-    color: #006EB6;
+    color: #0989df;
     font-size: 1em;
 }
 .box{
     max-width: 600px;
     margin: 50px auto;
     padding: 125px 150px;
-    border: solid 2px rgb(102, 101, 101);
+    border: solid 2px rgb(221, 220, 220);
 }
 header{
     text-align: center;
@@ -27,5 +27,5 @@ img{
 }
 footer{
     text-align: center;
-    padding-top: 1em;
+    padding-top: 3em;
 }
