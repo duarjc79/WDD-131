@@ -29,3 +29,8 @@ footer{
     text-align: center;
     padding-top: 3em;
 }
+
+.dark{
+    background-color: #121212;
+    color: white;
+}
